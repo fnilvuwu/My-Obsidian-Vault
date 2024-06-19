@@ -1,0 +1,1 @@
+Skill is the ability to manage or solve something well.

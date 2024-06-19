@@ -1,0 +1,1 @@
+It can be said that attention is the perception of a specific topic with a higher level of interest in order to gather specific data and information from it.  `Attention` refers to the **momentum**, as it is happening right now.

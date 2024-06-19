@@ -1,0 +1,1 @@
+When we talk about focus, we are talking about focusing on a subject for a specific time. When we focus on a subject, we concentrate most of our thinking and attention on the chosen topic. In doing so, all other thoughts concerning other topics will be completely faded out.

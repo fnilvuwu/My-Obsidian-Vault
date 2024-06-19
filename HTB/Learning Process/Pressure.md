@@ -1,0 +1,2 @@
+Pressure can also be described as mental stress, the totality of all detectable external and internal influences.
+Only the person who has taken the exact same journey as you can evaluate you and your decisions. Everything else is only assumptions.

@@ -1,0 +1,2 @@
+- `People fear what might happen in the future while not considering the present`.
+- `The difference between a winner and a loser is that the winner has lost more often than the loser`.

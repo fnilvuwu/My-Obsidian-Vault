@@ -1,0 +1,1 @@
+ An OS is software that manages all of the hardware resources associated with our computer. That means that an OS manages the whole communication between software and hardware.

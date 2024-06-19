@@ -1,0 +1,1 @@
+The mindset consists of thought processes we unconsciously acquire to avoid difficult situations or efforts.

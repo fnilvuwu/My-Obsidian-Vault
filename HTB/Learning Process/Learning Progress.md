@@ -1,0 +1,3 @@
+An important aspect to be considered in the learning process is `progress`. In order to see our progress, two specific states are compared, including a specific time window between the learning process. In other words, we compare our knowledge from the past with the present and try to keep track of the progress to give ourselves the confirmation that we have achieved something new.
+$$1.00^{365} = 1.00$$
+$$1.01^{365} = 37.7$$

@@ -1,0 +1,1 @@
+Talent is a strongly developed skill with high efficiency.
