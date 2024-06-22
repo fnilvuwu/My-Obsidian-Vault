@@ -1,0 +1,6 @@
+*.gdb_history
+*core*
+CTF/EC\ Council/
+CTF/.venv/
+.obsidian/
+CTF/Others/rockyou.txt

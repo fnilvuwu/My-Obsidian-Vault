@@ -12,3 +12,8 @@ the escape character. The backslash character ignores the meaning of the followi
 `10-point`
 `10th`
 
+
+when you use space make sure to escape it if you wanna use it on bash or terimanl, example :
+Anime\\ -\\ Episode\\ 1
+
+
