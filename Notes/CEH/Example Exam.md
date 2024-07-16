@@ -1,0 +1,1 @@
+1. There has been a data breach in the XXY stockbroker office. There are 4 valid employees account registered in a machine (192.168.77.130) which is used in the stockbroker's o
