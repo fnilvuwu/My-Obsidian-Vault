@@ -4,3 +4,9 @@ on linux :
 ifconfig
 ```
 
+![[Pasted image 20240716170929.png]]
+on windows :
+```
+ipconfig
+```
+
