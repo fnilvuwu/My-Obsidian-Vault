@@ -10,5 +10,8 @@ on windows :
 ipconfig
 ```
 
-Finding subnets using netdiscover this will search from - 
-netdiscover -r 192.168.77.0/24
+Finding subnets using netdiscover this will search from 0-255
+```
+sudo netdiscover -r 192.168.77.0/24
+```
+
