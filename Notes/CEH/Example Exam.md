@@ -2,4 +2,6 @@
 username : admin
 pass : aadmin123
 
-First use RDP to connect to the windows machine by entering the IP Address and 
+First use RDP to connect to the windows machine by entering the IP Address (192.168.77.130) and username (admin) then you'll be asked for password (aadmin123)
+
+after successfully connect open up Command Prompt (CMD) enter ipconfig make sure the IP address is correct and then 
