@@ -19,5 +19,6 @@ as you can see kevin here is the only account not in the list
 
 NOTE : 
 - RDP Port number is 3389
-so when using nmap scan 
+so when using nmap scan for a subnet to find ip address out to ip address find the one with that port number
+
 2. 
