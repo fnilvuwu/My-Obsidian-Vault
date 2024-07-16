@@ -17,4 +17,7 @@ net user
 
 as you can see kevin here is the only account not in the list 
 
+NOTE : 
+- RDP Port number is 3389
+so when using nmap scan 
 2. 
