@@ -10,3 +10,5 @@ on windows :
 ipconfig
 ```
 
+Finding subnets using netdiscover this will search from - 
+netdiscover -r 192.168.77.0/24
