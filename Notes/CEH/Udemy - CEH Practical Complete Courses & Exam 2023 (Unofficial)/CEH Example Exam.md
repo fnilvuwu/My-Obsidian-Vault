@@ -21,4 +21,4 @@ NOTE :
 - RDP Port number is 3389
 so when using nmap scan for a subnet to find ip address out to ip address find the one with that port number
 
-2. 
+2. Tes
