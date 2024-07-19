@@ -22,4 +22,4 @@ NOTE :
 - RDP Port number is 3389
 To find the IP addresses with an open RDP port in a subnet using nmap, scan the subnet and look for the IP addresses with port 3389 open.
 
-2. 
+2. Tes
