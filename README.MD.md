@@ -5,4 +5,4 @@
 - LLM using Torch (100/100%)
 - Binary Tree (100/100%)
 - Linked List (100/100%)	
-- D2L Dive into Deep Learning (77/100%)
+- D2L Dive into Deep Learning (79/100%)
