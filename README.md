@@ -8,4 +8,4 @@
 - Linked List (100/100%)
 
 ## Readlist :
-- D2L Dive into Deep Learning (86/100%)
+- D2L Dive into Deep Learning (87/100%)
