@@ -181,3 +181,4 @@ Six Sigma adalah metodologi berbasis data yang bertujuan untuk mengurangi cacat 
 
 Jika Anda ingin menggali lebih dalam tentang masing-masing konsep atau butuh materi spesifik, saya siap membantu!
 
+![[Pasted image 20240919142530.png]]
