@@ -11,4 +11,4 @@
 - [Adaline and Madaline Network](https://www.geeksforgeeks.org/adaline-and-madaline-network/) (Try to code from scratch)
 
 ## Read List :
-- D2L Dive into Deep Learning (96/100%)
+- D2L Dive into Deep Learning (97/100%)
