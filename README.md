@@ -11,4 +11,5 @@
 - [Adaline and Madaline Network](https://www.geeksforgeeks.org/adaline-and-madaline-network/) (Try to code from scratch)
 
 ## Read List :
-- D2L Dive into Deep Learning (99/100%)
+- D2L Dive into Deep Learning (100/100%)
+- Machine Learning with PyTorch and Scikit-Learn (0/100%)
