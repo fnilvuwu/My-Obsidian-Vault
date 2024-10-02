@@ -12,4 +12,4 @@
 
 ## Read List :
 - D2L Dive into Deep Learning (100/100%)
-- Machine Learning with PyTorch and Scikit-Learn (0/100%)
+- Machine Learning with PyTorch and Scikit-Learn (1/100%)
